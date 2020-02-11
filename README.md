@@ -1,16 +1,14 @@
-![](https://i.imgur.com/0D5106S.png)
 
 
 
-# OpenOSRS  
+
+# BRENTS RS
 
 [![Build Status](https://github.com/open-osrs/runelite/workflows/OpenOSRS%20-%20CI%20(push)/badge.svg)](https://github.com/open-osrs/runelite/actions?query=workflow%3A%22OpenOSRS+-+CI+%28push%29%22)
 [![HitCount](http://hits.dwyl.io/open-osrs/runelite.svg)](http://hits.dwyl.io/open-osrs/runelite)  
 [OpenOSRS](https://openosrs.com) is a fully open-source client with no restrictions. We are not affiliated with Jagex or RuneLite.
 
-## Discord  
 
-[![Discord](https://img.shields.io/discord/373382904769675265.svg)](https://discord.gg/openosrs)
 
 ## Project Layout  
 
@@ -35,6 +33,3 @@ OpenOSRS is licensed under the BSD 2-clause license. See the license header in t
 
 We've set up a separate document for our [contribution guidelines](https://github.com/open-osrs/runelite/blob/master/.github/CONTRIBUTING.md).
 
-## Supported By  
-
-OpenOSRS uses profiling tools provided by [![YourKit](https://www.yourkit.com/images/yklogo.png)](https://www.yourkit.com/java/profiler/)
