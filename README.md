@@ -25,11 +25,4 @@
 
 We have migrated the project to Gradle. Information on how to setup and build the project can be found at https://github.com/open-osrs/runelite/wiki/Building-with-IntelliJ-IDEA
 
-## License  
-
-OpenOSRS is licensed under the BSD 2-clause license. See the license header in the respective file to be sure.
-
-## Contribute and Develop  
-
-We've set up a separate document for our [contribution guidelines](https://github.com/open-osrs/runelite/blob/master/.github/CONTRIBUTING.md).
 
